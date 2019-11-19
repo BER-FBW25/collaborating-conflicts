@@ -1,6 +1,9 @@
 # Conflicts
 
 **Instructions**
-* As a class, set up a repository with a README file. In this file, you will create a class directory.
-* Each student must clone the repository and add their name to the directory (on the master branch). Push the changes made to the repository. 
-* Pull any new changes made to the repository and resolve any conflicts. 
+1. ```git clone``` dieses Projekt mit dem SSH Link.
+2. Editiere namen.md und füge deinen eigenen namen ein.
+3. Mach einen Commit.
+4. Versuche diesen commit mit ```git push``` auf git zu pushen.
+5. Eventuell musst du Änderungen erstmal pullen. 
+5. Bereinige Merge Konflikte.
