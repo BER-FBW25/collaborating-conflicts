@@ -2,7 +2,6 @@
 <<<<<<< HEAD
 =======
 Andreas
-=======
 
 Melad
 
